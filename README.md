@@ -4,4 +4,8 @@ HackZero is an open-source application made by programmers for programmers. Hack
 ## What is it for, and why?
 HackZero was made to help you with coding/programming/whatever you want to call it, because computers are becoming ever more important by the minute. The application was made to help more people make more apps, more utilities, more password managers, more games, more-- well, you get the point. In a nutshell, HackZero was created to make computers more efficient.
 ## How can I help?
+
 ## What's the difference between the 2 versions, HackZero Home and HackZero Developer?
+
+## When will HackZero officially be launched?
+In the 
