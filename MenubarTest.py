@@ -16,7 +16,7 @@ file_menu = Menu(
     menubar,
     tearoff=0
 )
-
+#eafds
 # add menu items to the File menu
 file_menu.add_command(label='New')
 file_menu.add_command(label='Open...')

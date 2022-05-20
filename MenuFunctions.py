@@ -26,3 +26,4 @@ def About():
     logo = Label(aboutWin, image=PhotoImage("favicon.png"))
     logo.place(x=0, y=0)
     aboutWin.mainloop()
+#adsf
